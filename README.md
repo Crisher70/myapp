@@ -27,11 +27,10 @@ DB_USERNAME= Usuario de la base de datos
 DB_PASSWORD= Contraseña de la base de datos
 ```
 
-### Servidor Web
+## Servidor Web
 
 Ejecutar los siguientes comandos en la carpeta del proyecto:
 
 ```
 php artisan migrate --seed
 npm run watch o npm run dev
-```
