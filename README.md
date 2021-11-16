@@ -32,5 +32,7 @@ DB_PASSWORD= Contraseña de la base de datos
 Ejecutar los siguientes comandos en la carpeta del proyecto:
 
 ```
+php artisan key:generate
 php artisan migrate --seed
 npm run watch o npm run dev
+```
