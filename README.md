@@ -36,5 +36,6 @@ Ejecutar los siguientes comandos en la carpeta del proyecto:
 ```
 php artisan key:generate
 php artisan migrate --seed
+php artisan serve
 npm run watch o npm run dev
 ```
