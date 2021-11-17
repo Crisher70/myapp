@@ -12,7 +12,6 @@
                 </div>
             </div>
              
-            
             <div class="col-lg-12">
                 <table class="table table-bordered table-striped">
                     <tr>
@@ -470,8 +469,7 @@ export default {
                 })
             });
 
-             //Se repíte
-            let sub_total_row = 0
+           let sub_total_row = 0
             row.products.forEach(element => {
                 sub_total_row += element.sub_total
             });

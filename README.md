@@ -3,10 +3,12 @@
 # Requisitos
 ```
 Laravel 8
-Base de datos MySQL
-PHP 8
 NPM
 Composer
+Base de datos MySQL
+PHP 8
+Apache
+Para los ultimos tres requisitos, estos pueden ser cubiertos instalando XAMPP
 ```
 
 # Instalación
